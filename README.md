@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://te.legra.ph/file/254b8764bd103e88750c7.jpg"></a></p>
+<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://te.legra.ph/file/b9040981331b8fd2284ec.jpg"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
