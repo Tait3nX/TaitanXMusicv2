@@ -1,11 +1,11 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AarohiX import app
-from AarohiX.core.call import Dil
-from AarohiX.utils.database import set_loop
-from AarohiX.utils.decorators import AdminRightsCheck
-from AarohiX.utils.inline import close_markup
+from TaitanX import app
+from TaitanX.core.call import Taitan
+from TaitanX.utils.database import set_loop
+from TaitanX.utils.decorators import AdminRightsCheck
+from TaitanX.utils.inline import close_markup
 from config import BANNED_USERS
 
 
