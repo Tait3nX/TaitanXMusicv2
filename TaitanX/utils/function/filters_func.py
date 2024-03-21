@@ -1,8 +1,8 @@
 from enum import Enum, auto
-from Taitan import app
+from TaitanX import app
 from pyrogram.types import InlineKeyboardMarkup, Message
-from Taitan.utils.msg_types import button_markdown_parser
-from Taitan.utils.function.notes_func import NoteFillings
+from TaitanX.utils.msg_types import button_markdown_parser
+from TaitanX.utils.function.notes_func import NoteFillings
 from emojis import decode
 from pyrogram.types import Message
 
