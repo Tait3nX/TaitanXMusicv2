@@ -37,7 +37,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Tait3nXGmr/TaitanXMusicV2",
+    "https://github.com/Tait3nX/TaitanXMusicV2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -81,26 +81,26 @@ lyrical = {}
 votemode = {}
 autoclean = []
 confirmer = {}
-chatstats = {}
-userstats = {}
+chatstats = {}2
+userstats = {}2
 clean = {}
 
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/b9040981331b8fd2284ec.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/696b8c5aa491bd1e7c7d2.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/b9040981331b8fd2284ec.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/9e355e9cb93c0d350327f.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/b9040981331b8fd2284ec.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/b9040981331b8fd2284ec.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/810f874873e1565cf5732.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/9e355e9cb93c0d350327f.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/9e355e9cb93c0d350327f.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/9e355e9cb93c0d350327f.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/16d7dd76f4ce8b8b01fdf.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/53f1a295e172d39eaa39d.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/53f1a295e172d39eaa39d.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg"
+YOUTUBE_IMG_URL = "https://te.legra.ph/file/9e355e9cb93c0d350327f.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/9e355e9cb93c0d350327f.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg"
 
