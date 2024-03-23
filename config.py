@@ -81,8 +81,8 @@ lyrical = {}
 votemode = {}
 autoclean = []
 confirmer = {}
-chatstats = {}2
-userstats = {}2
+chatstats = {}
+userstats = {}
 clean = {}
 
 autoclean = []
