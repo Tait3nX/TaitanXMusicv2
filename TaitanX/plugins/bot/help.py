@@ -114,7 +114,7 @@ async def helper_cb(client, CallbackQuery, _):
     elif cb == "hb16":
         await CallbackQuery.edit_message_text(helpers.HELP_16, reply_markup=keyboard)
 
-@app.on_callback_query(filters.regex("TaitanXaditi") & ~BANNED_USERS)
+@app.on_callback_query(filters.regex("dilXaditi") & ~BANNED_USERS)
 @languageCB
 async def first_pagexx(client, CallbackQuery, _):
     menu_next = second_page(_)
@@ -136,4 +136,4 @@ async def first_pagee(client, CallbackQuery, _):
 
 
 # Do not try to change whole code, just add or remove what you want.
-# Credited To Taitan
+# Credited To Dil(Adisa)
