@@ -35,7 +35,7 @@ from TaitanX.utils.exceptions import AssistantErr
 from TaitanX.utils.formatters import check_duration, seconds_to_min, speed_converter
 from TaitanX.utils.inline.play import stream_markup
 from TaitanX.utils.stream.autoclear import auto_clean
-from TaitanX.utils.thumbnails import gen_thumb
+from TaitanX.utils.thumbnails import get_thumb
 from strings import get_string
 
 autoend = {}
