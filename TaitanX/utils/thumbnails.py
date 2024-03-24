@@ -37,7 +37,7 @@ def circle(img):
     e = np.dstack((c, d))
     return Image.fromarray(e)
 
-async def gen_thumb(videoid, user_id):
+async def get_thumb(videoid, user_id):
     if os.path.isfile(f"cache/{videoid}_{user_id}.png"):
         return f"cache/{videoid}_{user_id}.png"
 
