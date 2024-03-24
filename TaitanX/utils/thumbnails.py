@@ -94,7 +94,7 @@ async def gen_thumb(videoid, user_id):
 
         youtube = Image.open(f"cache/thumb{videoid}.png")
         zyoutube = Image.open(f"cache/thumb{videoid}.png")
-        bg = Image.open(f"assets/ZSTREAM_adobe_express.png")
+        bg = Image.open(f"TaitanX/assets/ZSTREAM_adobe_express.png")
         image1 = youtube.resize((1280, 720))
         image2 = image1.convert("RGBA")
         background = image2.filter(filter=ImageFilter.BoxBlur(16))
@@ -224,7 +224,7 @@ async def gen_qthumb(videoid, user_id):
 
         youtube = Image.open(f"cache/thumb{videoid}.png")
         zyoutube = Image.open(f"cache/thumb{videoid}.png")
-        bg = Image.open(f"assets/ZSTREAM_adobe_express.png")
+        bg = Image.open(f"TaitanX/assets/ZSTREAM_adobe_express.png")
         image1 = youtube.resize((1280, 720))
         image2 = image1.convert("RGBA")
         background = image2.filter(filter=ImageFilter.BoxBlur(16))
